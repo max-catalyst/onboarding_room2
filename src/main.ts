@@ -8,6 +8,8 @@ let currentPopup: any = undefined;
 
 // Waiting for the API to be ready
 WA.onInit().then(() => {
+	WA.controls.disableRoomList();
+	WA.controls.disableInviteButton();
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
 
