@@ -450,7 +450,147 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":70.8047,
+                 "id":25,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":469.912205648478,
+                 "y":171.617118055936
+                }, 
+                {
+                 "height":70.8047,
+                 "id":26,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":500.07398245133,
+                 "y":680.254354140389
+                }, 
+                {
+                 "height":70.8047,
+                 "id":27,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":686.52860268714,
+                 "y":776.223643967645
+                }, 
+                {
+                 "height":70.8047,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":1044.35695475733,
+                 "y":806.385420770496
+                }, 
+                {
+                 "height":70.8047,
+                 "id":29,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":1047.09893446668,
+                 "y":548.639328091582
+                }, 
+                {
+                 "height":70.8047,
+                 "id":30,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"have a look inside",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":1049.84091417604,
+                 "y":223.714732533589
+                }, 
+                {
+                 "height":70.8047,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"LeBeaune",
+                     "halign":"center",
+                     "pixelsize":13,
+                     "text":"Try these portals",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":85.676,
+                 "x":406.846672333425,
+                 "y":451.299048409652
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -560,7 +700,7 @@
          "y":0
         }],
  "nextlayerid":73,
- "nextobjectid":25,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {
